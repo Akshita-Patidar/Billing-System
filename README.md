@@ -1,2 +1,2 @@
-"# Billing-System-with-print-of-receipt-" 
-It buid usuing #NodeJs and #ExpressJs
+"Billing-System-with-print-of-receipt." 
+It buid usuing NodeJs and ExpressJs
